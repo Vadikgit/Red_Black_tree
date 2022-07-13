@@ -2,7 +2,7 @@
 
 These files contain the implementation of the dynamic data structure "Red-black tree".
 
-In accordance with the template implementation, the elements of the set can be any custom types with overloaded comparison operators.
+In accordance with the template implementation, the elements of the set can be objects of any custom types with overloaded comparison operators.
 
 Inheritance of this class by other classes allows you to extend the data structure with additional information about the elements to solve special problems.
 
